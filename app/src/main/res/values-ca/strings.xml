@@ -16,6 +16,8 @@
     <string name="edit_board">Edita el tauler</string>
     <string name="archive_board">Arxiva el tauler</string>
     <string name="delete_board">Suprimeix el tauler</string>
+    <string name="delete_something">Elimina %1$s</string>
+
     <!-- About -->
     <string name="about">Quant a</string>
     <string name="about_version_title">Versió</string>
@@ -114,4 +116,9 @@
     <string name="you_have_to_be_connected_to_the_internet_in_order_to_add_an_account">Necessiteu estar connectat a internet per tal d\'afegir un compte</string>
     <string name="simple_select">Selecciona</string>
     <string name="owner">Propietari</string>
-    </resources>
+    <string name="simple_comment">Comentari</string>
+    <string name="attachment_delete_message">Això eliminarà permanent l\'adjunció</string>
+    <string name="no_content">No hi ha contingut encara</string>
+    <string name="action_card_move">Mou la targeta</string>
+    <string name="action_card_move_title">Mou %1$s</string>
+</resources>

@@ -94,4 +94,13 @@
     <string name="deck_outdated_please_update">덱 버전이 너무 오래되었습니다. 안드로이드 클라이언트를 사용하기 위해서는 업데이트가 필요합니다.</string>
     <string name="simple_update">업데이트</string>
     <string name="simple_delete">삭제</string>
+    <string name="simple_rename">이름 바꾸기</string>
+    <string name="simple_settings">설정</string>
+    <string name="settings_theme_title">어두운 테마</string>
+    <string name="pref_value_theme_light">밝게</string>
+    <string name="simple_undo">실행 취소</string>
+    <string name="simple_share">공유</string>
+    <string name="simple_select">선택</string>
+    <string name="owner">Owner</string>
+    <string name="simple_comment">설명</string>
     </resources>
